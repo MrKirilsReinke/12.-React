@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: rgba(114, 118, 132, 0.34);
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  margin-left: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}
